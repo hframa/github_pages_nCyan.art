@@ -9,8 +9,6 @@
 
 ---
 
-> **Something is coming.**
-
 `ncyan.art` — launching soon.
 
 ---
